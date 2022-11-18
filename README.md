@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, C#**
 
-- 👯 They are currently working with **TapSound**
+- 👯 They are currently working with **TapSound**/**Designate**
 
 - 📫 How to reach me (discord) **NolDys#1836**
 
