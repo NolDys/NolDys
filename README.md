@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noldys&label=Profile%20views&color=0e75b6&style=flat" alt="noldys" /> </p>
 
-- 🔭 I’m currently working on **Designate**
+- 🔭 I’m currently working on ---
 
 - 🌱 I’m currently learning **Kubernetes, C#**
 
-- 👯 They are currently working with **TapSound**/**Designate**
+- 👯 They are currently working with ---
 
-- 📫 How to reach me (discord) **NolDys#1836**
+- 📫 How to reach me (discord) **NolDys**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
